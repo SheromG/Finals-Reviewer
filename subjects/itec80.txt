@@ -13,13 +13,13 @@
 + Types of Task Analysis
 - Cognitive Task Analysis and Hierarchical Task Analysis
 
-+ Is focused on understanding tasks that require decision-making, problem-solving, memory, attention and judgment.
++ Is focused on understanding tasks that require decision making, problem solving, memory, attention and judgment.
 - Cognitive Task Analysis
 
-+ Is focused on decomposing a high-level task subtasks.
++ Is focused on decomposing a high level task subtasks.
 - Hierarchical Task Analysis
 
-+ Available at any time. User should not need to close the main application. Continuous access concurrent to main application Windows versus Non-windows based systems
++ Available at any time. User should not need to close the main application. Continuous access concurrent to main application Windows versus Non windows based systems
 - Availability 
 
 + Users who use help system are in difficulty correct error handling and predictable behavior otherwise user will not rely on help for getting assistance.
@@ -44,10 +44,10 @@
 - Context sensitive help
 
 + User works through basics of application in a test environment. (e.g. working with examples or watching a demonstration)
-- On-line tutorials
+- On line tutorials
 
 + Provides a full description of the system’s functionality and behaviour in a systematic manner paper documentation is made available on computer.
-- On-line documentation
+- On line documentation
 
 + Specific tool leads the user through task, step by step, using user’s answers to specific questions .
 - Wizards task 
@@ -70,7 +70,7 @@
 + Through (blank), we are able to put ourselves in other people's shoes and connect with how they might be feeling about their problem, circumstance, or situation.
 - Empathy
 
-+ Is simply crucial to a human-centered design process such as design thinking as it helps you set aside your own assumptions about the world to gain insight into your users and their needs instead
++ Is simply crucial to a human centered design process such as design thinking as it helps you set aside your own assumptions about the world to gain insight into your users and their needs instead
 - Empathy
 
 + (Blank) of the design thinking process is a time for you to collect as many experiences, insights and observations as possible, so you can build a solid foundation for the rest of your design project.
@@ -82,7 +82,7 @@
 + The next step is to define the above feelings and identify the main problem to be solved. I
 - Define
 
-+ This process is where ideas are generated. Students can learn empathy here when you teach them new and different ways to find solutions to a problem -
++ This process is where ideas are generated. Students can learn empathy here when you teach them new and different ways to find solutions to a problem 
 - Ideate
 
 + In the prototyping phase, students get to make and create the solution to the problem.
@@ -97,10 +97,10 @@
 + It includes materials for activities over a short period
 - Typical probes kit
 
-+ Are an approach to qualitative user research where face-to-face research is impractical or inappropriate.
++ Are an approach to qualitative user research where face to face research is impractical or inappropriate.
 - Cultural Probes
 
-+ (blank) in human-computer interaction is particularly useful for understanding environment where stakeholders interact to complete complex tasks involving the need for coordination and exchange of information.
++ (blank) in human computer interaction is particularly useful for understanding environment where stakeholders interact to complete complex tasks involving the need for coordination and exchange of information.
 - Ethnographic research
 
 + Is a qualitative orientation to research that emphasizes the detailed observation of people in naturally occurring settings.
@@ -109,7 +109,7 @@
 + Currently used in HCI clearly have their origins in social anthropology.
 - Ethnographic approaches
 
-+ Focuses on long-term studies spanning weeks, months, or even years. Information may be collected through participant observation, interviews, audio or video recording, observer logs, artifact collection, diaries and photographs.
++ Focuses on long term studies spanning weeks, months, or even years. Information may be collected through participant observation, interviews, audio or video recording, observer logs, artifact collection, diaries and photographs.
 - Traditional ethnography
 
 + Are typically performed with the potential users of a design, as part of an ideation phase or during early concept development.
@@ -145,7 +145,7 @@
 + Also known as interactive designers, work to design products that create a positive user experience. Their duties include analyzing consumer requirements and conducting market research to improve a company's product or service. They also work with engineers and product managers to create product prototypes for management review.
 - Interaction designers
 
-+ Is a vital part of how we perceive the world around us. Human beings have both short-term and longterm memory capacities, and we can create better designs by understanding how memory works and how we can work with that capacity rather than against it.
++ Is a vital part of how we perceive the world around us. Human beings have both short term and long term memory capacities, and we can create better designs by understanding how memory works and how we can work with that capacity rather than against it.
 - Memory
 
 + Is a powerful mental process that has many implications on life and how you experience things, from remembering meaningful events to enabling you to execute tasks and achieve goals.
@@ -163,8 +163,8 @@
 + Is used to process sensory memories which are of interest to us – for whatever reason.
 - Short term memory
 
-+ In most instances the memories transferred to our short-term memories are quickly forgotten. This is, probably, a good thing. If we didn’t forget the huge volumes of information that we perceive on a daily basis we could well become overloaded with information and find processing it in a meaningful way soon became impossible.
-- Long-Term Memories
++ In most instances the memories transferred to our short term memories are quickly forgotten. This is, probably, a good thing. If we didn’t forget the huge volumes of information that we perceive on a daily basis we could well become overloaded with information and find processing it in a meaningful way soon became impossible.
+- Long Term Memories
 
 + Are abstract design rules, with high generality and low authority.
 - Principles
@@ -251,13 +251,13 @@ for
 +  Is an invariant solution to a recurrent problem within a specific context.
 - Pattern
 
-+ Is a general repeatable solution to a commonly-occurring usability problem in interface design or interaction design.
++ Is a general repeatable solution to a commonly occurring usability problem in interface design or interaction design.
 - Interaction Design (ID) Pattern
 
 + Problems are related to the usage of the system and are relevant to the user or any other stakeholder that is interested in usability
 - Problem
 
-+ A situation (in terms of the tasks, the users and the context of use) giving rise to a usability problem. This section extends the plain problem-solutions dichotomy by describing situations in which the problems occur.
++ A situation (in terms of the tasks, the users and the context of use) giving rise to a usability problem. This section extends the plain problem solutions dichotomy by describing situations in which the problems occur.
 - Use when
 
 + A pattern is usually based on one or more ergonomic principles such as user guidance, or consistency, or error management.
