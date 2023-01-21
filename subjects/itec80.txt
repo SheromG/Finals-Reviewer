@@ -178,7 +178,7 @@
 + Is a collection of large amounts of data that is organized into groups or themes based on their relationships.
 - Affinity diagram
 
-+ Is just one tool that can help you empathise and synthesize your observations from the research phase, and draw out unexpected insights about your user’s needs.
++ Is just one tool that can help you empathize and synthesize your observations from the research phase, and draw out unexpected insights about your user’s needs.
 - Empathy Map
 
 + Are descriptions of individual people who represent groups of users that would interact with your system. You use them to guide your design.
