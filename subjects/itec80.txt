@@ -175,34 +175,102 @@
 + Tend to be lower in authority and more general in application.
 - Guidelines
 
-+ 
-- 
++ Is a collection of large amounts of data that is organized into groups or themes based on their relationships.
+- Affinity diagram
 
-+ 
-- 
++ Is just one tool that can help you empathise and synthesize your observations from the research phase, and draw out unexpected insights about your user’s needs.
+- Empathy Map
 
-+ 
-- 
-+ 
-- 
++ Are descriptions of individual people who represent groups of users that would interact with your system. You use them to guide your design.
+- Personas
 
-+ 
-- 
++ Are tools that are used in many parts of interaction design.
+- Personas
 
-+ 
-- 
++ Understand the requirements and explain them in a clear way.
+- Requirements
 
-+ 
-- 
++ Think through what this persona needs.
+- Design
 
-+ 
-- 
++ Identify needs that are or are not being met.
+- Evaluation
 
-+ 
-- 
++ Target the user needs that have already been identified and designed
+for
+- Marketing
 
-+ 
-- 
++ Is a visual or physical representation of the various individuals and groups involved with a particular challenge or system—the stakeholders of your design process in other words.
+- Stakeholder map
 
-+ 
-- 
++ Are people, groups or individuals who have the power either to affect or be affected by the design project you're involved in.
+- Stakeholders
+
++ The ease with which new users can begin effective interaction and achieve maximal performance.
+- Learnability
+
++ The multiplicity of ways in which the user and system exchange information.
+- Flexibility
+
++ The level of support provided to the user in determining successful achievement and assessment of goals.
+- Robustness
+
++ For interactive system design are usually set by national or international bodies to ensure compliance with a set of design rules by a large community.
+- Standards
+
++ (blank) Standards for hardware are based on an understanding of physiology or ergonomics/human factors, the results of which are relatively well known, fixed and readily adaptable to design of the hardware.
+- Underlying Theory
+
++ Is more difficult and expensive to change than software, which is usually designed to be very flexible.
+- Change Hardware
+
++ The effectiveness, efficiency and satisfaction with which specified users achieve specified goals in particular environments.
+- Usability
+
++ The accuracy and completeness with which specified users can achieve specified goals in particular environments.
+- Effectiveness
+
++ The resources expended in relation to the accuracy and completeness of goals achieved.
+- Efficiency
+
++ The comfort and acceptability of the work system to its users and other people affected by its use.
+- Satisfaction 
+
++ An American computer scientist consolidated some implicit facts about designing and came up with the following eight general guidelines 
+- Ben Shneiderman
+
++ Is a methodical procedure to check user interface for usability problems. Once a usability problem is detected in design, they are attended as an integral part of constant design processes.
+- Heuristics evaluation
+
++ Method includes some usability principles such as Nielsen’s ten Usability principles.
+- Heuristic evaluation
+
++ Originated in architecture, where they have been used successfully, and they are also used widely in software development to capture solutions to common programming problems.
+- Patterns
+
++  Is an invariant solution to a recurrent problem within a specific context.
+- Pattern
+
++ Is a general repeatable solution to a commonly-occurring usability problem in interface design or interaction design.
+- Interaction Design (ID) Pattern
+
++ Problems are related to the usage of the system and are relevant to the user or any other stakeholder that is interested in usability
+- Problem
+
++ A situation (in terms of the tasks, the users and the context of use) giving rise to a usability problem. This section extends the plain problem-solutions dichotomy by describing situations in which the problems occur.
+- Use when
+
++ A pattern is usually based on one or more ergonomic principles such as user guidance, or consistency, or error management.
+- Principle
+
++ A proven solution to the problem. A solution describes only the core of the problem, and the designer has the freedom to implement it in many ways. Other patterns may be needed to solve sub problems.
+- Solution
+
++ How and why the pattern actually works, including an analysis of how it may affect certain attributes of usability. 
+- Why
+
++ Each example shows how the pattern has been successfully applied in a real life system. This is often accompanied by a screenshot and a short description.
+- Examples
+
++ Some patterns provide implementation details.
+- Implementation
