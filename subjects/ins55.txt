@@ -1,0 +1,397 @@
++ The one who bridges the communications gap between those who need the computer and those who understand the technology. They facilitates the study of the problems and needs of a business to determine how the business system and information technology can best solve the problem and accomplish improvements for the business.
+- System analyst 
+
++ Four (4) Systems analyst is responsible for:
+- 1)	The efficient capture of data from its business source.
+- 2)	The flow of that data to the computer. 
+- 3)	The processing and storage of that data by the computer.
+- 4)	The flow of useful and timely information back to the business and its people.
+
++ Role of systems analyst: (2 two)
+- Business analyst and 	Application analyst 
+
++ Is a systems analyst that specializes in business problem analysis and technology-independent requirements analysis.
+- Business analyst 
+
++ Is a systems analyst that specializes in application design and technology-dependent aspects of development. 
+- Application analyst (System or application architect) 
+
++ Is the act of studying a problem environment in order to implement corrective solutions that take the form of new or improved systems.
+- System problem-solving 
+
++ Systems analysts solve problems for business organizations, such as these:
+- 1)	Problems getting orders from customers
+- 2)	Problems planning production amounts
+- 3)	Problems causing inventory holding costs
+- 4)	Problems anticipating customer needs
+- 5)	Problems limiting complete information about financial position
+- 6)	Problems limiting employee flexibility in benefits plans
+
++ System analysts are responsible for other aspects of a system including:
+- 1)	<strong>PEOPLE</strong>, including managers, users, and other developers – and including the organizational behaviors and politics that occur when people interact with one another.
+- 2)	<strong>DATA</strong>, including capture, validation, organization, storage, and usage.
+- 3)	<strong>PROCESSES</strong>, both automated and manual, that combine to process data and produce information.
+- 4)	<strong>INTERFACES</strong>, both to other systems and applications, as well to the actual users 
+- 5)	<strong>NETWORKS</strong>, which effectively distribute data, processes, and information to the people.
+
++ The analyst uses a series of steps to systematically understand and solve the problem. (8 Eight)
+- 1)	Research and understand the problem.
+- 2)	Verify the benefits of solving the problem outweigh the costs.
+- 3)	Define the requirements for solving the problem.
+- 4)	Develop a set of possible solutions.
+- 5)	Decide which solution is the best and make a recommendation.
+- 6)	Define the details of the chosen solution.
+- 7)	Implement the solution.
+- 8)	Monitor to make sure the desired results are obtained.
+
++ Systems that solves Business Problems (6 six)
+- 1)	•	Transaction Processing System (TPS)
+- 2)	•	Management Information System (MIS)
+- 3)	•	Decision Support System (DSS)
+- 4)	•	Expert Systems (ES)
+- 5)    •	Office Automation (OA) System
+- 6)	•	Communication Support System (CSS)
+
+
++ Is an IS application that captures and records information about the transactions that affect the organization.	It can respond to business transactions such as orders, timecards, or payments; or initiate transactions such as invoice, paychecks, or receipts. 
+- Transaction Processing System (TPS) 
+
++ Is an IS application that takes information captured by transaction processing systems and produces reports that management needs for planning and control.	It provides for management-oriented reporting. These reports are usually generated on a predetermined schedule and appear in a prearranged format. 
+- Management Information System (MIS)
+
++ Is an IS application that supports systems that allow a user to explore the impact of available options or decisions. It provides its users with decision-oriented information whenever a decision-making situation arises. When applied to executive managers, these systems are sometimes called executive information systems (EIS).
+- Decision Support System (DSS)
+
++ Is an extension of DSS.	It is a programmed decision-making information system that captures and reproduces the knowledge and expertise of an expert problem solver or decision maker and then simulates the “thinking” or “actions” of that expert.
+- Expert Systems (ES)
+
++ Is an IS application that supports systems that help employees create and share documents, including reports, proposals, and memos.
+- Office Automation (OA) System
+
++  Office Automation (OA) System can be designed to support both individuals and work groups.
+- •	Personal Information Systems  and •	Work Group Information Systems 
+
++ Is an IS application that supports systems that allow employees to communicate with each other and with customers and suppliers. 
+- Communication Support System (CSS) 
+
++ Systems that solves Business Problems (3 three)
+- 1)	Technical Knowledge and Skills 
+- 2)	Business Knowledge and Skills
+- 3)	People Knowledge and Skills
+
++ These are the most obvious areas of expertise: Computers, Peripheral Devices, Communication networks, Databases, Programming Language, Operating Systems.
+- Technical Knowledge and Skills 
+
++ Software products used to help develop analysis and design specifications and completed system components
+- Tools
+
++ Strategies for completing specific system development activities. 
+- Techniques
+
++ Systems analysts need to understand business organizations and how they operate, since they are solving problems for them. This is why the MIS or CIS majors are typically majors in a business degree.
+- Business Knowledge and Skills
+
++ Analysts work with others to develop systems, including employees from various areas of the company and with other system developers. Therefore, people knowledge and skills are crucial.
+- People Knowledge and Skills
+
++ The principal role in systems project is played by the systems analyst. What does it take to become a successful systems analyst? (9 nine)
+- 1)	•	Working Knowledge of Information Technology
+- 2)	•	Computer Programming Experience and Expertise
+- 3)	•	General Business Knowledge
+- 4)	•	Problem-Solving Skills
+- 5)	•	Interpersonal Communication Skills
+- 6)	•	Interpersonal Relations Skills
+- 7)	•	Flexibility and Adaptability
+- 8)	•	Character and Ethics
+- 9)	•	System Analysis and Design Skills
+
++ Sometimes systems analysts also manage the project and are referred to as project leaders or project managers. Other job titles include: (12 twelve)
+- 1)	•	Programmer analyst
+- 2)	•	Business systems analyst
+- 3)	•	System liaison
+- 4)	•	End-user analyst
+- 5)	•	Business consultant
+- 6)	•	Systems consultant
+- 7)	•	Systems support analyst
+- 8)	•	Systems designer
+- 9)	•	Software engineer
+- 10)	•	System architect
+- 11)	•	Webmaster
+- 12)	•	Webmaster
+
++ An analyst might work closely with executives to develop an executive information system.
+- •	Special projects 
+
++ Analysts are often involved with issues related to the role of information systems.
+- •	Strategic planning processes 
+
++ The plan defining the technology and applications the information systems function needs to provide to support the organization’s strategic plan
+- •	Information systems strategic planning 
+
++ A process in which an organization commits to using an integrated set of software packages for key information systems.
+- •	Enterprise resource planning (ERP)
+
++ Is the process of building, deploying, using, and updating an information system. It provides overall framework for managing systems development process.
+- System development lifecycle (SDLC) 
+
++ Information System Development Phases
+- Planning -> Analysis -> Design -> Implementation  
+
++ initiates, ensures feasibility, plans, schedules, and obtains approval for project. It identifies the scope of the new system, ensure that the project is feasible, and develop a schedule, resource plan, and budget for the remainder of the project.
+- Project planning 
+
++ understands business needs and processing requirements of the new system.
+- Analysis 
+
++ defines solution system based on requirements and analyzed decisions.
+- Design
+
++ constructs, tests, and installs a reliable information system with trained users ready to benefit as expected from the system.
+- Implementation
+
++ keeps the system running productively initially and during the system’s lifetime.
+- Support
+
++ The chief variations of SDLC include: (2 two)
+- 1)	<strong>Predictive</strong> - assumes project can be planned out in advance.
+- 2)	<strong>Adaptive</strong> – more flexible, assumes project cannot be planned out in advance.
+
++ The Traditional Predictive SDLC Approaches (2 two)
+- Pure Waterfall Approach and Modified Waterfall Approach
+
++ The Newer Adaptive Approaches to the SDLC
+- Spiral Model and Iterative Model
+
++ The waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall).•	It assumes that project phases can be sequentially executed.•	First introduced by Dr. Winston W. Royce
+- Pure Waterfall Approach (Predictive SDLC)
+
++ •	The iterative waterfall model provides feedback paths from every phase to its preceding phases, which is the main difference from the classical waterfall model. •	The feedback paths allow the phase to be reworked in which errors are committed and these changes are reflected in the later phases.
+- Modified Waterfall Approach
+
++ •	Project cycles through development activities over and over until project is complete.•	Prototype created by end of each cycle. •	Focuses on mitigating risk.
+- Spiral Model
+
++ •	Work activities are repeated.•	Each iteration refines previous result.•	Approach assumes no one gets it right the first time. •	There are a series of mini projects for each iteration.
+- Iterative Model
+
++ The Unified Process (UP) Life Cycle (4 four)
+- 1)	Inception
+- 2)	Elaboration
+- 3)	Construction
+- 4)	Transition
+
++ Develop an approximate vision of the system, make the business case, define the scope, and produce rough estimates for cost and schedule.
+- Inception
+
++ Refine the vision, identify and describe all requirements, finalize the scope, design and implement the core architecture and functions, resolve high risks, and produce realistic estimates for cost and schedule.
+- Elaboration
+
++ Iteratively implement the remaining low-risk, predictable and easier elements and prepare for deployment.
+- Construction
+
++ Complete the beta test and deployment so users have a working system and are ready to benefit as expected.
+- Transition
+
++ A collection of guidelines that enables an analyst to complete an activity or task
+- Techniques
+
++ These are software used to create models or components
+- Tools
+
++ is abstract (separate) aspects of the real world. It comes in many forms like physical analogs, mathematical, and graphical.
+- Models
+
++ There are (6) six main UP disciplines and three additional supported disciplines. 
+- 1)	Business Modeling
+- 2)	Requirements
+- 3)	Design
+- 4)	Implementation
+- 5)	Testing
+- 6)	Deployment
+
++ Additional UP Disciplines are: (3 three)
+- 1)	•	Project Management
+- 2)	•	Configuration and Change Management
+- 3)	•	Environment
+
++ The Overview of Object-Oriented Concepts (4 four)
+- 1)	•	Object-oriented analysis (OOA)
+- 2)	•	Object-oriented design (OOD)
+- 3)	•	Object-oriented programming (OOP)
+- 4)	•	Understanding the Concept of OO Concepts
+
++ CASE Meaning
+- Computer Aided System Engineering
+
++ •	Is an important aspect of the development of information systems and a critical skill for a system analyst.
+- Project Management
+
++ Project manager typically perform four activities or functions such as: (4 four)
+- 1)	<strong>Project Planning</strong> that includes identifying all project tasks and estimating the completion time and cost of each
+- 2)	<strong>Project scheduling</strong> involves the creation of a specific timetable, usually in the form of charts that show task, task dependencies, and critical tasks that might delay the project.
+- 3)	<strong>Project monitoring</strong> requires guiding, supervising, and coordinating the project team’s workload.
+- 4)	<strong>Project reporting</strong> includes regular progress reports to management, users, and the project team itself.
+
++ Is a professional organization that promotes project management, primarily within the United States but also throughout the world.
+- Project Management Institute (PMI) 
+
++ PMBOK meaning 
+- Project management body of knowledge 
+
++ PMBOK is organized into these nine knowledge areas:(9 nine)
+- 1)	o	Project Scope Management
+- 2)	o	Project Time Management
+- 3)	o	Project Cost Management
+- 4)	o	Project Quality Management
+- 5)    o	Project Human Resource Management
+- 6)	o	Project Communications Management
+- 7)	o	Project Risk Management
+- 8)	o	Project Procurement Management
+- 9)	o	Project Integration Management 
+
++ involves breaking a project down into a series of smaller tasks. Before creating work breakdown structures, the two primary chart types should be understood:
+- work breakdown structure (WBS) 
+
++ Who created Gantt Chart?
+- Henry L. Gantt, a mechanical engineer and management consultant, developed Gantt chart almost 100 years ago.
+
++ Is a horizontal bar chart that represents a set of tasks.
+- Gantt Charts
+
++ PERT meaning
+- Program Evaluation Review Technique 
+
++ CPM Meaning 
+- Critical Path Method
+
++ Is a bottom-up technique because it analyzes a large, complex project as a series of individual tasks, just as a pyramid is built from the bottom up using individual blocks.
+- PERT/CPM Charts
+
++ is any work that has a beginning and an end and requires the use of company resources such as people, time, or money.
+- task or activity 
+
++ is a recognizable reference point that can be used to monitor progress.
+- event or milestone 
+
++ Steps in WBS (3 three)
+- 1)	•	Listing the Tasks 
+- 2)	•	Estimating Task Duration
+- 3)	•	Displaying the Work Breakdown Structure
+
++ The Requirements discipline provides the primary input for Analysis and Design. (3 three)
+- 1)	•	The <strong>Implementation discipline</strong> implements the design. 
+- 2)	•	The <strong>Test discipline</strong> tests system designed during Analysis and Design. 
+- 3)	•	The <strong>Environment discipline</strong> develops and maintains the supporting artifacts that are used during Analysis and Design.
+
++ Provides the primary input for Analysis and Design.
+- Requirements discipline 
+
++ Requirements disciplines(5 five)
+- 1)	•	Gather Detailed Information 
+- 2)	•	Define Requirements <ul><li>Define Functional Requirements</li><li>Define Nonfunctional Requirements</li></ul>
+- 3)	•	Prioritize Requirements
+- 4)	•	Develop User Interface Dialogs
+- 5)	•	Evaluate Requirements with Users
+
++ Are all of the requirements at the system level that describe the functions which the system as a whole should fulfill to satisfy the stakeholder needs and requirements, and are expressed in an appropriate combination of textual statements, views, and non-functional requirements
+- System Requirements 
+
++ Is a statement that identifies a product or processes operational, functional, or design characteristic or constraint, which is unambiguous, testable, or measurable and necessary for product or process acceptability (ISO 2007).
+- Requirement
+
++ Provides the ability to track information from the origin of the stakeholder requirements to the top level of requirements and other system definition elements at all levels of the system hierarchy.
+- Requirements traceability 
+
++ Traceability is also used to provide an understanding as to the extent of a change as an input when impact analyses are performed in cases of proposed engineering improvements or requests for change.
+- Traceability
+
++ Several classifications of system requirements are possible, depending on the requirements definition methods and/or the architecture and design methods being applied.
+- Classification of System Requirements
+
++ Is performed to ensure alignment of the system and system element requirements with other representations, analyses, and artifacts of the system.
+- Requirements Management 
+
++ Is the process of developing abstract models of a system, with each model presenting a different view or perspective of that system.
+- System modeling 
+
++ Types of Models(8 eight)
+- 1)	•	Formal versus Informal Models
+- 2)	•	Formal versus Informal Models
+- 3)	•	Physical Models versus Abstract Model
+- 4)	•	Descriptive Models
+- 5)	•	Analytical Models
+- 6)	•	Hybrid Descriptive and Analytical Models
+- 7)	•	Graphical Models
+
++ is an activity the system performs, usually in response to a request by a user.
+- use case 
+
++ Several techniques are recommended for identifying use cases including: (3 three)
+- 1)	<strong>User Goal Technique</strong> -This is an approach for identifying use cases in which an analyst talks to all users to get them to describe their goals in using the system.
+- 2)	<strong>CRUD Technique</strong> - This an approach in which an analyst looks at each type of data and includes use cases that create the data, read or report on the data, update the data, and delete the data.
+- 3)	<strong>Event Decomposition Technique</strong> - This is the most comprehensive technique for identifying use cases and focuses on identifying the events to which a system must respond and then determining how the system must respond.
+
++ Is a process where no major time gap occurs during the process – i.e., it may seem seamless.
+- Elementary Business Process (EBP) 
+
++ Event Decomposition Technique (3 three)
+- 1)	Identify the events to which a system must respond
+- 2)	Determine how the system must respond
+- 3)	Focus on events
+
++ Types of Events (3 three)
+- 1)	External Event 
+- 2)	Temporal Event 
+- 3)	State Event 
+
+
++ Is a catalogue of use cases that lists events in rows and key pieces of information about each event in columns.
+- Event Table 
+
++ There are three levels of use case descriptions: (3 three)
+- 1)	Brief Description
+- 2)	Intermediate Description
+- 3)	Fully Developed Description
+
++ Is a joint effort between the analyst and the users.
+- The Brainstorming Technique 
+
++ is a more mechanical approach to identifying classes, but it is also a powerful technique.
+- <strong>The Noun Technique</strong> includes <ul><li>Attribute of Things</li><li>Associate of Things</li></ul>
+
++ CRUD Meaning
+- 1)	<strong>Create</strong> - to create and store new data.
+- 2)	<strong>Read</strong> - to retrieve and read data.
+- 3)	<strong>Update</strong> - to change or modify then store the data.
+- 4)	<strong>Delete</strong> - to delete or remove the data.
+
++ Is a methodology used in system analysis to identify, clarify, and organize system requirements. 
+- Use Cases
+
++ Every use case contains three essential elements:(3 three)
+- 1)	<strong>The actor.</strong> The system user -- this can be a single person or a group of people interacting with the process.
+- 2)	<strong>The goal.</strong> The final successful outcome that completes the process.
+- 3)	<strong>The system.</strong> The process and steps taken to reach the end goal, including the necessary functional requirements and their anticipated behaviors.
+
++ Is a more abstract description that's written in a technology-agnostic way, referring only to the business process being described and the actors that are involved in the activity.
+- Business Use Case 
+
++ Is written with more detail than a business use case, referring to the specific processes that must happen in various parts of the system to reach the final user goal.
+- System Use Case 
+
++ Is a system of abstractions that describes selected aspects of a sphere of knowledge, influence, or activity (a domain).
+- The Domain Model
+
++ In the Unified Modeling Language (UML), a class diagram is used to represent the domain model. Class - A type of classification used to describe a collection of objects(3 three)
+- 1)	<strong>Domain Class</strong> - Classes that describe objects in the problem domain
+- 2)	<strong>Class Diagram</strong> - A UML diagram that shows classes with attributes and associations (plus methods if it models software classes)
+- 3)	<strong>Domain Model Class Diagram </strong>- A class diagram that only includes classes from the problem domain, not software classes so no methods
+
++ Is generally process of just discussing and planning next cycle, phase, or iteration of software application that is in process of development.
+- Iteration Planning
+
++ Iteration Planning(4 four)
+- 1)	<strong>Inception Iteration</strong> is generally responsible to establish scope and vision and to explain and define business case.
+- 2)	<strong>Elaboration Iteration</strong> also results in architecture with complete framework and infrastructure for execution.
+- 3)	<strong>Construction Iterations.</strong> The essential result of late iteration in construction phase is that more functionality is added, which yields an increasing complete system.
+- 4)	<strong>Transition Iteration</strong> is generally responsible to migrate product into user community.
