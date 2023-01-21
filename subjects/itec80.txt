@@ -139,6 +139,39 @@
 + How can you make your design outstanding so users will remember it?
 - Spectacle
 
++ Is an iterative process in which you seek to understand your users, challenge assumptions, redefine problems and create innovative solutions which you can prototype and test.
+- Design thinking
+
++ Also known as interactive designers, work to design products that create a positive user experience. Their duties include analyzing consumer requirements and conducting market research to improve a company's product or service. They also work with engineers and product managers to create product prototypes for management review.
+- Interaction designers
+
++ Is a vital part of how we perceive the world around us. Human beings have both short-term and longterm memory capacities, and we can create better designs by understanding how memory works and how we can work with that capacity rather than against it.
+- Memory
+
++ Is a powerful mental process that has many implications on life and how you experience things, from remembering meaningful events to enabling you to execute tasks and achieve goals.
+- Human memory
+
++ Three types of Memories
+- Sensory Memory, Short Term Memory, Long Term Memory
+
++ Are the memories which are stored for tiny time periods and which originate from our sensory organs (such as our eyes or our nose). They are typically retained for less than 500 milliseconds.
+- Sensory memories
+
++ Is often known as iconic memory. Sensory visual memories are the raw information that the brain receives (via the optic nerve) from the eye. 
+- Visual sensory memory
+
++ Is used to process sensory memories which are of interest to us – for whatever reason.
+- Short term memory
+
++ In most instances the memories transferred to our short-term memories are quickly forgotten. This is, probably, a good thing. If we didn’t forget the huge volumes of information that we perceive on a daily basis we could well become overloaded with information and find processing it in a meaningful way soon became impossible.
+- Long-Term Memories
+
++ 
+- 
+
++ 
+- 
+
 + 
 - 
 
@@ -148,6 +181,8 @@
 + 
 - 
 
++ 
+- 
 + 
 - 
 
