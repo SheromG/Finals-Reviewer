@@ -166,14 +166,14 @@
 + In most instances the memories transferred to our short-term memories are quickly forgotten. This is, probably, a good thing. If we didn’t forget the huge volumes of information that we perceive on a daily basis we could well become overloaded with information and find processing it in a meaningful way soon became impossible.
 - Long-Term Memories
 
-+ 
-- 
++ Are abstract design rules, with high generality and low authority.
+- Principles
 
-+ 
-- 
++ Are specific design rules, high in authority and limited in application.
+- Standards 
 
-+ 
-- 
++ Tend to be lower in authority and more general in application.
+- Guidelines
 
 + 
 - 
