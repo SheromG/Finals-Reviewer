@@ -49,25 +49,24 @@ const changeFile = async (fileName) => {
 };
 
 dcit26.addEventListener("click", () => {
-  changeFile("subjects/dcit26.txt");
+  changeFile("./subjects/dcit26.txt");
   subject = "DCIT 26 - Application Development and Emerging Technologies";
 });
 
 insy55.addEventListener("click", () => {
-  changeFile("subjects/ins55.txt");
+  changeFile("./subjects/ins55.txt");
   subject = "INSY 55 - System Analysis and Design";
 });
 
 itec80.addEventListener("click", () => {
-  changeFile("subjects/itec80.txt");
+  changeFile("./subjects/itec80.txt");
   subject = "ITEC 80 - Introduction to Human Computer Interaction";
 });
 
 itec85.addEventListener("click", () => {
-  changeFile("subjects/itec85.txt");
+  changeFile("./subjects/itec85.txt");
   subject = "ITEC 85 - Information Assurance and Security 1";
 });
-
 
 answer.addEventListener("click", () => {
   // return if exam is not loaded
@@ -183,7 +182,7 @@ const showQuestion = () => {
           console.log(data[index + 5]);
           console.log(data[index + 6]);
           console.log(data[index + 7]);
-          console.log(data[index + 9]);
+          console.log(data[index + 8]);
           console.log(data[index + 9]);
           console.log(data[index + 10]);
       }
