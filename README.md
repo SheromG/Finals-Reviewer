@@ -2,9 +2,9 @@
 
 ### Subject
 ####  1. DCIT 26
-####  2. ITEC 80
-####  3. ITEC 85
-####  4. INSY 55
+####  2. INSY 55
+####  3. ITEC 80
+####  4. ITEC 85
 
 # Created by John Castillo
 
