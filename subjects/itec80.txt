@@ -1,8 +1,89 @@
 + The term (blank) is traditionally used in HCI to describe the involvement of users and stakeholders in design processes, with pretext of disturbing control to participants to shape their technological future.
 - Participation
 
-+ 
-- 
++ The (blank) can encompass an individual or a group of users working together.
+- User
+
++ By comparison, is exploratory by nature and has the ability to pull together seemingly disconnected areas and opinions and to ultimately arrive at something new and meaningful. It all starts with empathy.
+- Design
+
++ Is the process of learning about ordinary users by observing them in action to understand in detail how they perform their tasks and achieve their intended goals.
+- Task Analysis
+
++ Types of Task Analysis
+- Cognitive Task Analysis and Hierarchical Task Analysis
+
++ Is focused on understanding tasks that require decision-making, problem-solving, memory, attention and judgment.
+- Cognitive Task Analysis
+
++ Is focused on decomposing a high-level task subtasks.
+- Hierarchical Task Analysis
+
++ Available at any time. User should not need to close the main application. Continuous access concurrent to main application Windows versus Non-windows based systems
+- Availability 
+
++ Users who use help system are in difficulty correct error handling and predictable behavior otherwise user will not rely on help for getting assistance.
+- Robustness
+
++ Help matches actual system behaviour Otherwise user is disappointed help covers complete system Otherwise user will be frustrated.
+- Accuracy and Completeness
+
++ Between different parts of the help system and paper documentation In terms of content, terminology and style of presentation.
+- Consistency
+
++ Adaptation of help system according to context allows user to interact in a way appropriate to user experience and task at hand.
+- Flexibility 
+
++ Does not prevent the user continuing with normal work.
+- Unobtrusiveness 
+
++ User help on particular command
+- Command assistance
+
++ Help request interpreted according to context in which it occurs.
+- Context sensitive help
+
++ User works through basics of application in a test environment. (e.g. working with examples or watching a demonstration)
+- On-line tutorials
+
++ Provides a full description of the system’s functionality and behaviour in a systematic manner paper documentation is made available on computer.
+- On-line documentation
+
++ Specific tool leads the user through task, step by step, using user’s answers to specific questions .
+- Wizards task 
+
++ Monitor user behaviour and offer contextual advice can be irritating 
+- Assistants
+
++ Provide information about correct usage when an error occurs.
+- Command prompts
+
++ Use knowledge of the context, individual user, task and domain to provide help adapted to user's needs.
+- Adaptive Help Systems
+
++ Avoid blocks of text rather use clear logical sections.
+- Physical Layout Design
+
++ Where to look for a particular information clear indication of summary and example information
+- Consistency
+
++ Through (blank), we are able to put ourselves in other people's shoes and connect with how they might be feeling about their problem, circumstance, or situation.
+- Empathy
+
++ Is simply crucial to a human-centered design process such as design thinking as it helps you set aside your own assumptions about the world to gain insight into your users and their needs instead
+- Empathy
+
++ (Blank) of the design thinking process is a time for you to collect as many experiences, insights and observations as possible, so you can build a solid foundation for the rest of your design project.
+- Empathize stage
+
++ Is the first step in design thinking because it is a skill that allows us to understand and share the same feelings that others feel.
+- Empathy
+
++ The next step is to define the above feelings and identify the main problem to be solved. I
+- Define
+
++ This process is where ideas are generated. Students can learn empathy here when you teach them new and different ways to find solutions to a problem -
+- Ideate
 
 + 
 - 
@@ -45,64 +126,3 @@
 
 + 
 - 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
