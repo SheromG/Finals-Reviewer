@@ -85,14 +85,59 @@
 + This process is where ideas are generated. Students can learn empathy here when you teach them new and different ways to find solutions to a problem -
 - Ideate
 
-+ 
-- 
++ In the prototyping phase, students get to make and create the solution to the problem.
+- Prototype
 
-+ 
-- 
++ During testing, empathy plays a key role in shaping of the user's experience.
+- Test
 
-+ 
-- 
++ Are exercises we give to a target group in a design project; from these, we can get an understanding about their lives.
+- Probes for context mapping 
+
++ It includes materials for activities over a short period
+- Typical probes kit
+
++ Are an approach to qualitative user research where face-to-face research is impractical or inappropriate.
+- Cultural Probes
+
++ (blank) in human-computer interaction is particularly useful for understanding environment where stakeholders interact to complete complex tasks involving the need for coordination and exchange of information.
+- Ethnographic research
+
++ Is a qualitative orientation to research that emphasizes the detailed observation of people in naturally occurring settings.
+- Ethnography
+
++ Currently used in HCI clearly have their origins in social anthropology.
+- Ethnographic approaches
+
++ Focuses on long-term studies spanning weeks, months, or even years. Information may be collected through participant observation, interviews, audio or video recording, observer logs, artifact collection, diaries and photographs.
+- Traditional ethnography
+
++ Are typically performed with the potential users of a design, as part of an ideation phase or during early concept development.
+- User interviews
+
++ Aristotle's 7 Element of Good Storytelling
+- Plot, Character, Theme, Dialogue/Diction, Melody, Decor, Spectacle
+
++ What are users trying to achieve/overcome?
+- Plot
+
++ Who are the users: not just demographically, but what insights do you need to understand what they (and their needs) are truly like?
+- Characters
+
++ How can you establish a trustworthy presence to them and still set yourself apart from competitors? How will you reflect the overall obstacles users must overcome?
+- Theme
+
++ What will your design say to users and how? Does a formal/informal tone match their expectations? How much text is appropriate?
+- Dialogue/Diction
+
++ How will the overall design pattern appear pleasant and predictable to users, moving them emotionally?
+- Melody
+
++ How will you present everything so the graphics match the setting the users can sense? Would a classic design or stylized, niche layout meet their expectations?
+- Décor
+
++ How can you make your design outstanding so users will remember it?
+- Spectacle
 
 + 
 - 
