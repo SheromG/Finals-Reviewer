@@ -71,8 +71,77 @@
 - Monitoring
 - Control
 
-
 + System operational environment
 - Hardware
 - System software
 - Networking environment
+
++ Global collection of networks
+- Internet 
+
++ Private network accessible to internal users
+- Intranet
+
++ Intranet extended to include some external users 
+- Extranet
+
++ Is an iterative process, encompassing topological design, network-synthesis, and network-realization, and is aimed at ensuring that a new telecommunications network or service meets the needs of the subscriber and operator.
+- Network planning and design 
+
++ Is any collection of data whether you are writing it on the paper or storing it in the digital format.
+- Database
+
++ Types of Database 
+- Online Transaction Processing (OLTP)
+- Online Analysis Processing (OLAP)
+
++ Is a kind of software that helps you to retrieve,edit and store structured data in the database.
+- Database Management System (DBMS)
+
++ To retrieve this data from the database and process it, you need a data processing unit.
+- Query Processing Software
+
++ Is a collection of objectoriented programming and relational database.
+- Object Oriented Database (OODB)
+
++ Is a type of database that stores and provides access to data points that are related to one another. 
+- Relational Database
+
++ is a database management system (DBMS) similar to a relational database, but with an object-oriented database model:
+- object–relational database
+
++ is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems. 
+- Database Design
+
++ Database Development Life Cycle
+- Requirement analysis
+- Database Designing
+- Implementation
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
