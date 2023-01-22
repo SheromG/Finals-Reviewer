@@ -103,32 +103,32 @@
 + TRUE OF FALSE: Secure Socket Layer (SSL) use public key encryption to secure channel. 
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know how an organization operates at all levels.
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know that IS security is usually a management problem & seldom exclusively technical problem.
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know that IS security is usually a management problem & seldom exclusively technical problem.
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know that IS security is usually a management problem & seldom exclusively technical problem.
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know most IT technologies (not as expert but as generalist)
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: Security Personnel should know terminology of IT and IS. 
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know how to protect an org’s assets from security attacks
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know how business solutions can be applied to solve problems
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know strong communications and writing skills.
 - TRUE
 
-+ TRUE OF FALSE: 
++ TRUE OF FALSE: A Security Personnel Should Know strong communications and writing skills.
 - TRUE
