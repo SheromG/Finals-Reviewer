@@ -1,153 +1,3 @@
-+ Year During the Cold War, many more mainframes were brought online to accomplish more complex and sophisticated tasks. 
-- 1960s
-
-+ The quality or state of being secure to be free from danger. 
-- Security
-
-+ To protect physical items, objects, or areas from unauthorized access and misuse.
-- Physical Security
-
-+ To protect the individual or group of individuals who are authorized to access the organization and its operations
-- Personnel Security
-
-+ To protect the details of a particular operation or series of activities.
-- Operations Security
-
-+ To protect communications media, technology, and content
-- Communications Security
-
-+ To protect networking components, connections, and contents
-- Network Security
-
-+ A subject or object’s ability to use, manipulate, modify, or affect another subject or object.
-- Access
-
-+ The organizational resource that is being protected. An asset can be logical, such as a Web site, information, or data; or an asset can be physical, such as a person, computer system, or other tangible object.
-- Asset
-
-+ An intentional or unintentional act that can cause damage to or otherwise compromise information and/or the systems that support it.
-- Attack
-
-+ Security mechanisms, policies, or procedures that can successfully counter attacks, reduce risk, resolve vulnerabilities, and otherwise improve the security within an organization.
-- Control, Safeguard, or Countermeasure
-
-+ A technique used to compromise a system.
-- Exploit
-
-+ A condition or state of being exposed. In information security, exposure exists when a vulnerability known to an attacker is present.
-- Exposure
-
-+ A single instance of an information asset suffering damage or unintended or unauthorized modification or disclosure
-- Loss
-
-+ The probability that something unwanted will happen.  
-- Risk
-
-+ A computer can be either the subject of an attack—an agent entity used to conduct the attack—or the object of an attack—the target entity.
-- Subjects and Objects
-
-+ A category of objects, persons, or other entities that presents a danger to an asset. Threats are always present and can be purposeful or undirected.
-- Threat
-
-+ The specific instance or a component of a threat.
-- Threat Agent
-
-+ A weaknesses or fault in a system or protection mechanism that opens it to attack or damage.
-- Vulnerability
-
-+ The physical technology that houses and executes the software, stores and transports the data, and provides interfaces for the entry and removal of information from the system.
-- Hardware
-
-+ TRUE or FALSE: Virus is a computer program that attaches itself to an executable file or application. 
-- TRUE
-
-+ TRUE or FALSE: Antivirus software compares programs signature files against the programming code of known viruses. 
-- TRUE
-
-+ TRUE or FALSE: A worm is a computer program that replicates and propagates itself without having to attach itself to a host. 
-- TRUE
-
-+ TRUE or FALSE: Most infamous worms are Code Blue and Ninja. 
-- FALSE
-
-+ TRUE or FALSE: Trojan Virus disguises themselves as useful computer programs or applications and can install a backdoor or rootkit on a computer. 
-- TRUE
-
-+ TRUE or FALSE: Backdoors or rootkits are computer programs that give attackers a means of regaining access to the attacked computer later. 
-- TRUE
-
-+ TRUE or FALSE: A Spyware program sends info from the infected computer to the person who initiated the spyware program on your computer. 
-- TRUE
-
-+ TRUE or FALSE: Adware sometimes displays a banner that notifies the user of its presence. 
-- TRUE
-
-+ TRUE or FALSE: Data security is unlike any other aspect of information technology. 
-- FALSE
-
-+ TRUE or FALSE: Information security is a management issue. 
-- TRUE
-
-+ TRUE or FALSE: Communities of interest must argue for information security in terms of impact and cost. 
-- TRUE
-
-+ TRUE or FALSE: Organization needs environments that safeguard applications. 
-- TRUE
-
-+ TRUE or FALSE: One of the most valuable assets is application. 
-- FALSE
-
-+ TRUE or FALSE: Organizations must have secure infrastructure services based on the size and scope of the enterprise. 
-- TRUE
-
-+ TRUE or FALSE: A threat is an object, person, or other entity that represents a constant danger to an asset. 
-- TRUE
-
-+ The process of identifying and controlling risks facing an organization. 
-- Risk Management 
-
-+ The process of examining an organization’s current information technology security situation. 
-- Risk Identification
-
-+ Targets of various agents’ threats and threat. 
-- Assets
-
-+ It begins with identification of assets, including all elements of an organization’s system. 
-- Iterative Process
-
-+ Responsible for classifying their information assets. 
-- Information Owner
-
-+ It must be reviewed periodically. 
-- Information
-
-+ Assign classification to all data. 
-- Data Classification and Management
-
-+ Grant access to data based on classification and need. 
-- Data Classification and Management
-
-+ TRUE or FALSE: Each data user assigned a single level of authorization indicating classification level. 
-- TRUE
-
-+ TRUE or FALSE: It requires all information be stored in appropriate storage container daily. 
-- TRUE
-
-+ TRUE or FALSE: Human resources, documentation, and data information assets are more difficult to identify. 
-- TRUE
-
-+ TRUE or FALSE: People with knowledge, experience, and good judgment should be assigned this task. 
-- TRUE
-
-+ TRUE or FALSE: These assets should be recorded using reliable data-handling process. 
-- TRUE
-
-+ TRUE or FALSE: An organization doesn’t to need to classify data to provide protection. 
-- TRUE
-
-+ TRUE or FALSE: Before accessing specific set of data, employee must meet need-to-know requirement. 
-- TRUE
-
 + Set of Rules That Protects and Organization’s Assets.
 - Security Policy
 
@@ -160,13 +10,13 @@
 + Written statement of moving the organization toward its mission.
 - Strategic Plan
 
-+ Set of rules that protect an organization’s information assets.
++ Set of rules that protect an organization’s information assets. 
 - Information security policy
 
 + Contains a statement on the organization’s position on a specific issue
-- ISSP (Issue-Specific Security Policy)
+- ISSP
 
-+ It stipulates that at end of business day, classified information must be properly stored and secured.
++ It stipulates that at end of business day, classified information must be properly stored andsecured.
 - Clean Desk Policy
 
 + The basis for design, selection, and implementation.
@@ -177,3 +27,108 @@
 
 + It covers five basic areas of security with detailed discussions on Development and implementation.
 - RFC 2196: Site Security Handbook
+
++ Requires rules to be developed and installed with firewall.
+- Static Filtering
+
++ Prevent information from moving between the outside world and inside world.
+- Firewalls
+
++ Known as auditability.
+- Access Control
+
++ Examine header information & data packets.
+- Packet Filtering
+
++ Combines packet filtering router with dedicated firewall – such as proxy server.
+- Screened Host firewall 
+
++ Give users and data owner’s limited control over access.
+- MAC
+
++ Allows only a particular packet with a particular source, destination, and port address to enter.
+- Dynamic Filtering
+
++ Tracks the state and context of each packet.
+- Stateful 
+
++ Create tunnels between networks.
+- Circuit Gateways
+
++ Allows specific types of packets that are acceptable to each host.
+- MAC Layer Firewall 
+
++ TRUE OF FALSE: Cryptanalysis is a process of obtaining the original message form encrypted message. 
+- FALSE
+
++ TRUE OF FALSE: Decryption is a process of converting an original message into a form that is unreadable to unauthorized individuals. 
+- FALSE
+
++ TRUE OF FALSE: Encryption is a process of converting the encrypted message into an easily read message. 
+- FALSE
+
++ TRUE OF FALSE: Algorithm is a Programmatic step to encrypt message. 
+- TRUE
+
++ TRUE OF FALSE: Cipher is a Decryption method or process. 
+- FALSE
+
++ TRUE OF FALSE: Cipher text or cryptogram is a Encrypted message. 
+- TRUE
+
++ TRUE OF FALSE: Code is a process of converting decrypted components into encrypted components. 
+- TRUE
+
++ TRUE OF FALSE: Plaintext or clear text is the original message. 
+- TRUE
+
++ TRUE OF FALSE: Steganography is a process of hiding messages. 
+- TRUE
+
++ TRUE OF FALSE: Decryption requires knowledge of pad values or difficult encryption. 
+- TRUE
+
++ TRUE OF FALSE: Length of key increase the number of random selections to be guessed. 
+- TRUE
+
++ TRUE OF FALSE: Private Key container files that allow computer program to validate the key and identify to whom it belongs. 
+- FALSE
+
++ TRUE OF FALSE: Digital Signatures are created to verify information transferred using electronic systems.  
+- TRUE
+
++ TRUE OF FALSE: PEM uses 3DES symmetric key encryption and PKI for key exchanges and digital signature. 
+- FALSE
+
++ TRUE OF FALSE: Secure Socket Layer (SSL) use public key encryption to secure channel. 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
+
++ TRUE OF FALSE: 
+- TRUE
