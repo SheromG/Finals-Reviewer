@@ -1,7 +1,19 @@
-+ 
-- 
++ Is a deployment where the old and new systems are operated for an extended period of time.
+- Parallel Deployment
 
-+ 
-- 1)	
-- 2)	
-- 3)	
++ A software project where it pertains a process of controlling and tracing changes in the software
+- Software Configuration Management
+
++ This database is a collection of multiple interconnected database which are spread across various locations
+- Distributed Database
+
++ It is type of report that is being used by high-level managers to assess overall organizational health and performance.
+- Executive Reports
+
++ A control that limits the ability of specific users to access such specific resources as servers, files, Web pages, application programs, and database tables.
+- Access Controls
+
++ Provide the 3 categories of system users
+- 1)	Unauthorized / Unregistered Users
+- 2)	Registered Users
+- 3)	Privileged User
