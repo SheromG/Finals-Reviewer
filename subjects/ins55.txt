@@ -118,23 +118,37 @@
 - Database Designing
 - Implementation
 
-+ 
-- 
++ Are inputs and outputs that require minimal human intervention.
+- System interfaces
 
-+ 
-- 
++ Are inputs and outputs that more directly involve a system user.
+- User interfaces
 
-+ 
-- 
++ The First principle of user-centered design
+- Focus early on the users and their work.
 
-+ 
-- 
++ The second principle of user-centered design
+- Evaluate designs
 
-+ 
-- 
++ The third principle of user-centered design
+- Iterative development 
 
-+ 
-- 
++ The Eight Golden Rules of Interface Design
+- Strive for consistency
+- Enable frequent users to use shortcuts
+- Offer informative feedback
+- Design dialogue to yield closure
+- Offer simple error handling
+- Permit easy reversal of actions
+- Support internal locus of control
+- Reduce short-term memory load
+
++ THE TRANSITION FROM ANALYSIS TO USER INTERFACE DESIGN
+- User-Interface Design
+- Identifying System Interfaces
+- Designing System Inputs
+- Designing System Outputs
+- Designing Reports, Statements, and TurnaroundDocuments
 
 + 
 - 
