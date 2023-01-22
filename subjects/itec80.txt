@@ -196,8 +196,7 @@
 + Identify needs that are or are not being met.
 - Evaluation
 
-+ Target the user needs that have already been identified and designed
-for
++ Target the user needs that have already been identified and designed for
 - Marketing
 
 + Is a visual or physical representation of the various individuals and groups involved with a particular challenge or system—the stakeholders of your design process in other words.
