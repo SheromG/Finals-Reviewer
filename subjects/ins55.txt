@@ -17,3 +17,62 @@
 - 1)	Unauthorized / Unregistered Users
 - 2)	Registered Users
 - 3)	Privileged User
+
++ Three tiers of discipline tasks/Methods
+- 1)	High (Architectural)
+- 2)	Low (Detail Design)
+- 3)	Physical Design
+
++ Is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements.
+- Systems design
+
++ Is a proper way of planning and leading software projects.
+- Project Management
+
++ UP disciplines
+- Business Modeling
+- Requirements
+- Design
+- Implementation
+- Testing 
+- Deployment
+
++ Other UP disciplines
+- Configuration nad Change management
+- Project management
+- Environment
+
++ Software Project Management consists of several different type of managements:
+- Conflict
+- Risk
+- Requirement
+- Change
+- Software Configuration
+- Release
+
++ A process to restrict the negative features of conflict while increasing the positive features of conflict.
+- Conflict Management
+
++ An analysis and identification of risks that is followed by synchronized and economical implementation of resources to minimize, operate and control the possibility or effect of unfortunate events or to maximize the realization of opportunities
+- Risk Management
+
++ A process of analyzing, prioritizing, tracing and documenting on requirements and then supervising change and communicating to pertinent stakeholders.
+- Requirement Management
+
++ A systematic approach for dealing with the transition or transformation of an organization’s goals, processes or technologies. 
+- Change Management
+
++ Involves the task of planning, controlling and scheduling the build in deploying releases.
+- Release Management
+
++ Aspects of Software Project Management
+- Planning
+- Execution
+- Monitoring
+- Control
+
+
++ System operational environment
+- Hardware
+- System software
+- Networking environment
