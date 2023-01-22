@@ -132,3 +132,94 @@
 
 + TRUE OF FALSE: A Security Personnel Should Know strong communications and writing skills.
 - TRUE
+
++ Requires rules to be developed and installed with firewall
+- Static filtering 
+
++ Allows only a particular packet with a particular source, destination, and port address to enter
+- Dynamic filtering 
+
++ Process of converting an original message into a form that is unreadable to unauthorized individuals
+- Encryption 
+
++ Process of converting the encrypted message (cipertext) into an easily read message (plain text)
+- Decryption
+
++ Programmatic steps to encrypt message
+- Algorithm
+
++ Encryption method or process
+- Cipher
+
++ Ciphertext or cryptogram
+- Encrypted message
+
++ Process of converting unencrypted components into encrypted components
+- Code
+
++ Convert to plaintext
+- Decipher
+
++ Convert to plaintext
+- Decipher
+
++ To encrypt
+- Encipher
+
++ Information used with the algorithm to encrypt
+- Key or crypto-variable
+
++ Entire range of values that can possibly be used to construct an individual key
+- Key-space
+
++ Series of encryptions /decryptions between a number of systems
+- Link encryption
+
++ The original message
+- Plaintext or clear text
+
++ Process of hiding messages
+- Steganography
+
++ Amount - effort required to perform cryptanalysis
+- Work factor
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
