@@ -171,13 +171,15 @@
 + Include statements, notices, and other documents that are produced for people outside the organization.
 - External outputs
 
-+ 
-- 
-+ 
-- 
++ Is an integrated collection of stored data that is centrally managed and controlled
+- Database
 
-+ 
-- 
++ Is a system software component that is generally purchased and installed separately from other system software component
+- Database management system
+
++ Is a DBMS that organizes stored data into structures called tables or relations. 
+- Relational database management system 
+
 + 
 - 
 
