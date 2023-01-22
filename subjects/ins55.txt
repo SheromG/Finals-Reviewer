@@ -274,42 +274,17 @@
 + It determines whether a system or subsystem can meet such time based performance criteria as response time or throughput.
 - Stress test
 
-+ 
-- 
++ Descriptions of system requirements, architecture, and construction details
+- System documentation
 
-+ 
-- 
++ Descriptions of how to interact with and use the system
+- User documentation
 
-+ 
-- 
++ The new system is installed and quickly made operational, and any overlapping systems are then turned off
+- Direct deployment or Immediate cutover
 
-+ 
-- 
++ The system is deployed in a series of steps or phases. Each phase adds components or functions to the operational system. 
+- Phased deployment
 
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
++ One of the most basic decisions to be made about developing a system is the order in which software components will be built or acquired, tested, and deployed.
+- Development Order
