@@ -150,12 +150,41 @@
 - Designing System Outputs
 - Designing Reports, Statements, and TurnaroundDocuments
 
++ Report Types
+- Detailed Reports
+- Summary Reports
+- Exception Reports
+- Executive Reports
+
++ These contain specific information on business transactions
+- Detailed Reports
+
++ These are often used to recap periodic activity. 
+- Summary Reports
+
++ These provide details or summary information about transactions or operating results that fall outside of a predefined normal range of values.
+- Exception Reports
+
++ Are produced for use within the organization.
+- Internal outputs
+
++ Include statements, notices, and other documents that are produced for people outside the organization.
+- External outputs
+
++ 
+- 
 + 
 - 
 
 + 
 - 
-
 + 
 - 
 
++ 
+- 
++ 
+- 
+
++ 
+- 
