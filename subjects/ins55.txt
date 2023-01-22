@@ -180,13 +180,136 @@
 + Is a DBMS that organizes stored data into structures called tables or relations. 
 - Relational database management system 
 
++ Are mechanisms and procedures that are built into a system to safeguard the system and the information within it.
+- Controls
+
++ It ensures correct system function by rejecting invalid data inputs, preventing unauthorized data outputs, and protecting data and programs against accidental or malicious tampering.
+- Integrity Control
+
++ It tends to be less application specific. The distinction between the two isn’t precise because there is some overlap and because designers typically use both types.
+- Security controls
+
++ These check numeric data inputs to ensure that the amount entered is reasonable. 
+- Value limit controls
+
++ These ensure that all required data values describing an object or transaction are present.
+- Completeness controls
+
++ These ensure that numeric fields containing codes or identifiers are correct.
+- Data validation controls
+
++ These review various combinations of data inputs to ensure that the correct data are entered.
+- Field combination controls
+
++ Commonly used input control types include:
+- Value limit controls
+- Completeness controls
+- Data validation controls
+- Field combination controls
+
++ Is a technique by which any update to the database is logged with such audit information as user ID, date, time, input data, and type of update.
+- Transaction logging
+
++ Common types of output controls include:
+- Physical access controls to printers
+- Discarded output control
+- Access controls to programs that display or print
+- Formatting and labeling of printed outputs
+- Labeling of electronic outputs
+
++ Fraud triangle
+- Opportunity
+- Motivation
+- Rationalization
+
++ The process of identifying users who request access to sensitive resources.
+- Authentication 
+
++ A list attached or linked to a specific resource that describes users or user groups and the nature of permitted access 
+- Access control list 
+
++ The process of allowing or restricting a specific authenticated user’s access to a specific resource based on an access control list.
+- Authorization 
+
++ People who aren’t allowed access to any part or functions of the system.
+- Unauthorized users
+
++ Those who are authorized to access the system. 
+- Registered users —
+
++ People who have access to the source code, executable program, and database structure of the system, including system programmers, application programmers, operators, and system administrators
+- Privileged users
+
++ Is the process of altering data so unauthorized users can’t view them.
+- Encryption
+
++ Is the process of converting encrypted data back to their original state.
+- Decryption
+
++ Is a complex mathematical transformation that encrypts or decrypts binary data.
+- Encryption algorithm 
+
++ Is a binary input to the encryption algorithm—typically a long string of bits.
+- Encryption key
+
++ Is a protocol for a secure channel to send messages over the Internet.
+- Transport Layer Security 
+
++ Is a newer Internet standard for secure message trans- mission.
+- IP Security (IPSec)
+
++ Is an Internet standard for securely transmitting Web pages.
+- Secure Hypertext Transport Protocol (HTTPS or HTTP-S) 
+
++ Different Types of Testing:
+- Unit Testing
+- Integration Testing
+- Usability Testing
+- System, Performance and Stress Testing
+- User Acceptance Testing
+
++ Is an integration test of the behavior of an entire system or independent subsystem.
+- System test
+
++ It determines whether a system or subsystem can meet such time based performance criteria as response time or throughput.
+- Stress test
+
 + 
 - 
 
 + 
 - 
+
 + 
 - 
 
 + 
 - 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
