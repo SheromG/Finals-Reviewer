@@ -116,7 +116,13 @@
 - User interviews
 
 + Aristotle's 7 Element of Good Storytelling
-- Plot, Character, Theme, Dialogue/Diction, Melody, Decor, Spectacle
+- Plot 
+- Character 
+- Theme
+- Dialogue/Diction
+- Melody
+- Decor
+- Spectacle
 
 + What are users trying to achieve/overcome?
 - Plot
@@ -151,8 +157,10 @@
 + Is a powerful mental process that has many implications on life and how you experience things, from remembering meaningful events to enabling you to execute tasks and achieve goals.
 - Human memory
 
-+ Three types of Memories
-- Sensory Memory, Short Term Memory, Long Term Memory
++ Three (3) types of Memories
+- Sensory Memory
+- Short Term Memory
+- Long Term Memory
 
 + Are the memories which are stored for tiny time periods and which originate from our sensory organs (such as our eyes or our nose). They are typically retained for less than 500 milliseconds.
 - Sensory memories
@@ -273,3 +281,48 @@
 
 + Some patterns provide implementation details.
 - Implementation
+
++ Five (5) stages in the Design Thinking Process
+- Empathy
+- Define
+- Ideate
+- Prototype
+- Test
+
++ Four (4) The Probe Kits included:
+- Postcards
+- Maps
+- A disposable camera
+- A photo album and media diary
+
++ The Three (3) Stages in the Context Mapping Process and how to develop the Best Probes to Fit into it
+- Stage 1: Preparing
+- Stage 2: Collecting
+- Stage 3: Communicating
+
++ Three (3) Different Types of Design Rules
+- Principles
+- Standards
+- Guidelines
+
++ Shneiderman’s Eight Golden Rules
+- Strive for Consistency.
+- Cater to Universal Usability
+- Offer Informative feedback
+- Design Dialogs to yield closure
+- Prevent Errors
+- Permit easy reversal of actions
+- Support internal locus of control
+- Reduce short term memory load
+
++ Nielsen's Ten Heuristic Principles
+- Visibility of system status 
+- Match between system and real world
+- User control and freedom
+- Consistency and standards
+- Error prevention
+- Recognition rather than Recall
+- Flexibility and efficiency of use
+- Aesthetic and minimalist design
+- Help, diagnosis and recovery from errors
+- Documentation and Help
