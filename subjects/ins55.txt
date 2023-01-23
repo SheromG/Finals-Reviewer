@@ -38,7 +38,7 @@
 - Deployment
 
 + Other UP disciplines
-- Configuration nad Change management
+- Configuration and Change management
 - Project management
 - Environment
 
