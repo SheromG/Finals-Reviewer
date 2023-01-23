@@ -101,7 +101,7 @@
 + To retrieve this data from the database and process it, you need a data processing unit.
 - Query Processing Software
 
-+ Is a collection of objectoriented programming and relational database.
++ Is a collection of object-oriented programming and relational database.
 - Object Oriented Database (OODB)
 
 + Is a type of database that stores and provides access to data points that are related to one another. 
