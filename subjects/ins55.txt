@@ -71,7 +71,7 @@
 - Monitoring
 - Control
 
-+ System operational environment
++ (3) System operational environment
 - Hardware
 - System software
 - Networking environment
