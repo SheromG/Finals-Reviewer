@@ -65,7 +65,7 @@
 + Involves the task of planning, controlling and scheduling the build in deploying releases.
 - Release Management
 
-+ Aspects of Software Project Management
++ (4) Aspects of Software Project Management
 - Planning
 - Execution
 - Monitoring
