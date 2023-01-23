@@ -261,7 +261,7 @@
 + Is an Internet standard for securely transmitting Web pages.
 - Secure Hypertext Transport Protocol (HTTPS or HTTP-S) 
 
-+ Different Types of Testing:
++ (5) Different Types of Testing:
 - Unit Testing
 - Integration Testing
 - Usability Testing
