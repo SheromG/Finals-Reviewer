@@ -91,7 +91,7 @@
 + Is any collection of data whether you are writing it on the paper or storing it in the digital format.
 - Database
 
-+ Types of Database 
++ (2) Types of Database 
 - Online Transaction Processing (OLTP)
 - Online Analysis Processing (OLAP)
 
