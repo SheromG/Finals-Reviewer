@@ -143,7 +143,7 @@
 - Support internal locus of control
 - Reduce short-term memory load
 
-+ THE TRANSITION FROM ANALYSIS TO USER INTERFACE DESIGN
++ (5)THE TRANSITION FROM ANALYSIS TO USER INTERFACE DESIGN
 - User-Interface Design
 - Identifying System Interfaces
 - Designing System Inputs
