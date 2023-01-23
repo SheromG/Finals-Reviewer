@@ -29,7 +29,7 @@
 + Is a proper way of planning and leading software projects.
 - Project Management
 
-+ UP disciplines
++ (6) UP disciplines
 - Business Modeling
 - Requirements
 - Design
