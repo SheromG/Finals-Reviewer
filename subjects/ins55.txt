@@ -42,7 +42,7 @@
 - Project management
 - Environment
 
-+ Software Project Management consists of several different type of managements:
++ (6) Software Project Management consists of several different type of managements:
 - Conflict
 - Risk
 - Requirement
