@@ -272,7 +272,7 @@
 - System test
 
 + It determines whether a system or subsystem can meet such time based performance criteria as response time or throughput.
-- Stress test
+- Performance Test/ Stress test
 
 + Descriptions of system requirements, architecture, and construction details
 - System documentation
