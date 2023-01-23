@@ -113,7 +113,7 @@
 + is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems. 
 - Database Design
 
-+ Database Development Life Cycle
++ (3) Database Development Life Cycle
 - Requirement analysis
 - Database Designing
 - Implementation
