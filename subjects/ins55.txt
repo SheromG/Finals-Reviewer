@@ -150,7 +150,7 @@
 - Designing System Outputs
 - Designing Reports, Statements, and TurnaroundDocuments
 
-+ Report Types
++ (4) Report Types
 - Detailed Reports
 - Summary Reports
 - Exception Reports
