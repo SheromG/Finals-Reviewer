@@ -127,6 +127,39 @@
 + PDF Means
 - Portable Document Format
 
++ DWF or DWFx means
+- Design web format
+
++ (blank)save time and promote consistency in the drawing and design process
+- File Templates
+
++ (blank) refers to the methods and processes of creating a management system and then storing and retrieving it for later use, and maintaining the files within
+- File management
+
++ Commonly known as a drone, is an aircraft without Its flight is controlled either autonomously by computers in the vehicle, or under the 
+- unmanned aerial vehicle (UAV)
+
++ A pilotless aircraft that is steered or controlled from a remotely located position. In many cases, the terms uav and rpv are interchangeably used to describe any pilotless 
+- Remotely Piloted Vehicle (RPV)
+
++ One of the oldest terms used to describe a pilotless aircraft. 
+- Drone 
+
++ Types of Drone
+- Fixed Wing
+- VTOL (Vertical Take-off and Landing)
+- Hybrid
+- Aerostat
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
 + 
 - 
 
