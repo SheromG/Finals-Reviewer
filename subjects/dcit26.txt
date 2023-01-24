@@ -145,7 +145,7 @@
 + One of the oldest terms used to describe a pilotless aircraft. 
 - Drone 
 
-+ Types of Drone
++ (9) Types of Drone
 - Fixed Wing
 - VTOL (Vertical Take-off and Landing)
 - Hybrid
@@ -174,7 +174,7 @@
 - Military bases
 - National parks
 
-+ Drones Application 
++ (7) Drones Application 
 - Agriculture Applications
 - Mining
 - Power Line Inspection
