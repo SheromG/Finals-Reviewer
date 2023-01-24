@@ -109,6 +109,39 @@
 + The standard format used in manufacturing and construction. 2-d drawing is effective for a project that is quick to design and does not require 
 - Two-dimensional Drawings
 
++ 3-d describes an object having width, height and depth dimensions. A wireframe model is the most basic 3-d cad model and it contains only information 
+- Three-dimensional Wireframe Models 
+
++ A solid model is the most complex cad format, it contains information about object An accurate solid model is an exact digital representation of a product.
+- Three-dimensional Solid Models
+
++ Cadd software includes command for creating and modifying all elements of a drawing Straight lines, circles, arcs, text, dimensions and numerous symbols
+- Drawing and Editing
+
++ This refers to software and drawing specific settings
+- Plotting 
+
++ Is the process of transferring electronic data for a database to a different file format 
+- Exporting
+
++ PDF Means
+- Portable Document Format
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
 + 
 - 
 
@@ -129,3 +162,4 @@
 
 + 
 - 
+
