@@ -51,30 +51,30 @@
 - Parallel robot configuration
 
 + Robot's Six (6) Main Parts
-- 
-- 
-- 
-- 
-- 
-- 
+- Manipulator
+- Controller
+- Actuators
+- End Effector
+- Sensors
+- Drive
 
-+ 
-- 
++ <strong>Part of a robot: </strong> also known as the “Robot Arm”, is a part of the robot that provides motion similar to that of a human arm.
+- Manipulator
 
-+ 
-- 
++ <strong>Part of a robot: </strong>  is a computer connected to a robot that functions as its “brain”.
+- Controller
 
-+ 
-- 
++ <strong>Part of a robot: </strong>  is the "engine" that drives the links (the sections between the joints) into their desired position. Without a drive, a robot would just sit there, which is not helpful.
+- Drive
 
-+ 
-- 
++ <strong>Part of a robot: </strong>  are considered as the “muscles” of the robot. These are combinations of different electro-mechanical devices
+- Actuators
 
-+ 
-- 
++ <strong>Part of a robot: </strong>  is the tool and device attached to a robot which enables it to accomplish some desired physical function.
+- End Effector
 
-+ 
-- 
++ <strong>Part of a robot: </strong>  is the perceptual interface between robots and their surroundings. It provides robot controller an information about its configuration
+- Sensor
 
 + 
 - 
