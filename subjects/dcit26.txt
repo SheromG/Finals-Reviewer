@@ -151,48 +151,38 @@
 - Hybrid
 - Aerostat
 
-+ 
++ Responsible for implementing policies on civil aviation to assure safe, economic and efficient air travel. 
+- Civil Aviation Authority of the Philippines (CAAP)
+
++ This proves you have enough skills and knowledge to safely operate remotely piloted aircraft
+- Remotely Piloted Aircraft (RPAS) Controller Certificate
+
++ This recognizes the business has sufficient safety policies, well-trained staff, and proper facilities and equipment to provide drone services
+- Remotely Piloted Aircraft (RPAS) Operator Certificate
+
++ This document assigns official registration numbers to your aircraft that certifies them as fit to use
+- Remotely Piloted Aircraft (RPAS) Certificate of Registration
+
++ (8) No-fly zones
+- <strong> Airports </strong>
+- <strong>Highly populated areas are also considered no-fly zones</strong>
+- Schools and universities
+- Malls and markets
+- Any place with large public gatherings
+- <strong>Also avoid places with controlled or restricted airspace like</strong>
+- Government buildings
+- Military bases
+- National parks
+
++ Drones Application 
+- Agriculture Applications
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 
 + 
 - 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
-+ 
-- 
-
