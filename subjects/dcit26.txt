@@ -82,6 +82,27 @@
 + Emits some form of energy and then measures the reflected signals as a way of 
 - Active Sensor 
 
++ Is an open source programmable circuit board that can be integrated into a This board contains a microcontroller which is able to be programmed to sense and 
+- Arduino
+
++ Is a free online service for creating basic 3d shapes and developing digital prototype
+- TinkerCAD
+
++ A circuit project is created and opened. A circuit project includes a variety of electronic components. Electronic components include leds, buttons, resistors, and a power 
+- TinkerCAD Circuit
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
++ 
+- 
+
 + 
 - 
 
@@ -97,3 +118,11 @@
 + 
 - 
 
++ 
+- 
+
++ 
+- 
+
++ 
+- 
