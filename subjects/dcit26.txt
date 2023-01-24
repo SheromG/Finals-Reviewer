@@ -1,46 +1,61 @@
-+ 
-- 
++ An automatic device that is reprogrammable, multifunctional, mimic the actions of a human being on command or by being programmed.
+- Robot
 
-+ 
-- 
++ Who first introduced the origin of the word "robot" 
+- A czech playwright named Karel Capek
 
-+ 
-- 
++ Czechoslovakian word “robota” which means 
+- labor
 
-+ 
-- 
++ Czechoslovakian word “robotnik” which means 
+- meaning workman
 
-+ 
-- 
++ Three laws of robotics by Asimov 
+- Law zero: a robot may not injure humanity, or, through inaction, allow humanity to come to harm.
+- Law 1 (human safety): a robot may not injure a human being, or, through inaction, allow a human being to come to harm, unless this would violate a higher order law
+- Law 2 (robots are slaves): a robot must obey orders given it by human beings, except where such orders would conflict with a higher order law.
+- Law 3 (robot survival): a robot must protect its own existence as long as such protection does not conflict with a higher order law
 
-+ 
-- 
++ Artificial intelligence (AI) was first used by 
+- John Mccarthy
 
-+ 
-- 
++ Mccarthy who considers it to mean as the science and engineering of developing/constructing a machine or a computer program capable of intelligent action 
+- Modern industrial robot 
 
-+ 
-- 
++ The First Commercial Robot
+- Unimate
 
-+ 
-- 
++ (8) Types of robot by application
+- Autonomous
+- Domestic
+- Entertainment
+- Hobby and Competition
+- Industrial
+- Medical
+- Service
+- Space
 
-+ 
-- 
++ These are robots used for entertainment. This is a very broad category. It starts with toy robots such as robosapien or the running alarm clock and ends with real heavyweights 
+- Entertainment robots
 
-+ 
-- 
++ These are robots that one create for fun and made for competition. Line followers, 
+- Hobby and competition robots
 
-+ 
-- 
++ These are robots that are used in an industrial manufacturing environment. Usually these are articulated arms specifically developed for such applications as welding, 
+- Industrial robots
 
-+ 
-- 
++ These are robots that are used in medicine and medical institutions. The first and foremost example for this is the surgery robots. Also, some automated guided vehicles
+- Medical robots
 
-+ 
-- 
++ Also known as the newest class of robots and also called a hexapod, a stewart platform (or a gough platform), a parallel kinematic machine (pkm), a parallel manipulator, or a 
+- Parallel robot configuration
 
-+ 
++ Robot's Six (6) Main Parts
+- 
+- 
+- 
+- 
+- 
 - 
 
 + 
