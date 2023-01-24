@@ -91,20 +91,23 @@
 + A circuit project is created and opened. A circuit project includes a variety of electronic components. Electronic components include leds, buttons, resistors, and a power 
 - TinkerCAD Circuit
 
-+ 
-- 
++ Is the process of using information technology (it) in the design and drafting applications. It enhances the ability of the designers and drafters in designing building structures, civil projects and mechanical and manufacturing processes by providing many new tools.Much accuracy and faster generating of output
+- Computer-aided design and drafting (CADD) 
 
-+ 
-- 
++ The core of a cadd system is the 
+- CAD (computer-aided drafting) software
 
-+ 
-- 
++ Contains programs that instruct the hardware devices to perform specific tasks for the 
+- CAD Software 
 
-+ 
-- 
++ (4) CADD FORMATS 
+- Two-dimensional drawings
+- Three-dimensional wireframe models
+- Three-dimensional surface models
+- Three-dimensional solid models
 
-+ 
-- 
++ The standard format used in manufacturing and construction. 2-d drawing is effective for a project that is quick to design and does not require 
+- Two-dimensional Drawings
 
 + 
 - 
