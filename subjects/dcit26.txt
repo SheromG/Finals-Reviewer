@@ -76,11 +76,11 @@
 + <strong>Part of a robot: </strong>  is the perceptual interface between robots and their surroundings. It provides robot controller an information about its configuration
 - Sensor
 
-+ 
-- 
++ Accepts energy already in the environment. These include thermometers, cameras, and 
+- Passive Sensor
 
-+ 
-- 
++ Emits some form of energy and then measures the reflected signals as a way of 
+- Active Sensor 
 
 + 
 - 
