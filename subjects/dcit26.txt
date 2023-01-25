@@ -145,7 +145,7 @@
 + One of the oldest terms used to describe a pilotless aircraft. 
 - Drone 
 
-+ (9) Types of Drone
++ (4) Types of Drone
 - Fixed Wing
 - VTOL (Vertical Take-off and Landing)
 - Hybrid
