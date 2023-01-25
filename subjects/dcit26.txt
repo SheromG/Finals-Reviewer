@@ -8,7 +8,7 @@
 - labor
 
 + Czechoslovakian word “robotnik” which means 
-- meaning workman
+- workman
 
 + Three laws of robotics by Asimov 
 - Law zero: a robot may not injure humanity, or, through inaction, allow humanity to come to harm.
