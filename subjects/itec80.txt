@@ -142,7 +142,7 @@
 + <u>Robustness</u> is the process of learning about ordinary users by observing them in action to understand in detail how they perform their tasks and achieve their intended goals.
 - FALSE: Task Analysis
 
-+ <u>Availabitily</u> user should not need to close the main application. Continuous access concurrent to main application Windows versus Non windows based systems
++ <u>Availability</u> user should not need to close the main application. Continuous access concurrent to main application Windows versus Non windows based systems
 - TRUE
 
 + <u>Flexibility</u> between different parts of the help system and paper documentation In terms of content, terminology and style of presentation.
